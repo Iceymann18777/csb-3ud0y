@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://iceymann18777.github.io/csb-3ud0y/static/css/main.eaab0393.chunk.css",
+    "main.js": "https://iceymann18777.github.io/csb-3ud0y/static/js/main.d2e52bbd.chunk.js",
+    "main.js.map": "https://iceymann18777.github.io/csb-3ud0y/static/js/main.d2e52bbd.chunk.js.map",
+    "runtime-main.js": "https://iceymann18777.github.io/csb-3ud0y/static/js/runtime-main.bc01a20e.js",
+    "runtime-main.js.map": "https://iceymann18777.github.io/csb-3ud0y/static/js/runtime-main.bc01a20e.js.map",
+    "static/css/2.66398b45.chunk.css": "https://iceymann18777.github.io/csb-3ud0y/static/css/2.66398b45.chunk.css",
+    "static/js/2.2583d1b0.chunk.js": "https://iceymann18777.github.io/csb-3ud0y/static/js/2.2583d1b0.chunk.js",
+    "static/js/2.2583d1b0.chunk.js.map": "https://iceymann18777.github.io/csb-3ud0y/static/js/2.2583d1b0.chunk.js.map",
+    "index.html": "https://iceymann18777.github.io/csb-3ud0y/index.html",
+    "precache-manifest.ff9239804f85f094c01976398bea40e0.js": "https://iceymann18777.github.io/csb-3ud0y/precache-manifest.ff9239804f85f094c01976398bea40e0.js",
+    "service-worker.js": "https://iceymann18777.github.io/csb-3ud0y/service-worker.js",
+    "static/css/2.66398b45.chunk.css.map": "https://iceymann18777.github.io/csb-3ud0y/static/css/2.66398b45.chunk.css.map",
+    "static/css/main.eaab0393.chunk.css.map": "https://iceymann18777.github.io/csb-3ud0y/static/css/main.eaab0393.chunk.css.map",
+    "static/js/2.2583d1b0.chunk.js.LICENSE.txt": "https://iceymann18777.github.io/csb-3ud0y/static/js/2.2583d1b0.chunk.js.LICENSE.txt",
+    "static/media/home-bg-1.jpg": "https://iceymann18777.github.io/csb-3ud0y/static/media/home-bg-1.4173ecfe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc01a20e.js",
+    "static/css/2.66398b45.chunk.css",
+    "static/js/2.2583d1b0.chunk.js",
+    "static/css/main.eaab0393.chunk.css",
+    "static/js/main.d2e52bbd.chunk.js"
+  ]
+}
